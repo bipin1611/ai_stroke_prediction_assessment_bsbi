@@ -1,0 +1,4 @@
+=== BASIC EDA DIAGNOSTICS ===
+Target column: stroke
+Columns: ['id', 'gender', 'age', 'hypertension', 'heart_disease', 'ever_married', 'work_type', 'Residence_type', 'avg_glucose_level', 'bmi', 'smoking_status', 'stroke']
+Target sample values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
